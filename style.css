@@ -1,8 +1,10 @@
 .raleway-normal {
-    font-family: raleway, sans-serif;
-    font-optical-sizing: auto;
-    font-Weight: 100 – 900;
-    font-style: normal;
+    .raleway-<uniquifier> {
+        font-family: "Raleway", sans-serif;
+        font-optical-sizing: auto;
+        font-weight: <weight>;
+        font-style: normal;
+    }
 }
 
 * {
